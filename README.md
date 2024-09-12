@@ -1,2 +1,2 @@
 # Hello-World2
-Practice using GitHub
+Hello my Name is Kinzlee Changfoot, I'm in SDA 250
